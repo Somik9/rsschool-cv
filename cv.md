@@ -29,6 +29,7 @@ _like a SysAdmin and it was lomg time ago_
 * Udemy courses
 * Coursers
 * RS-School
+* educative.io
 
 ## Language:
 1. English level C1
