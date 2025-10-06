@@ -32,6 +32,6 @@ _like a SysAdmin and it was lomg time ago_
 * educative.io
 
 ## Language:
-1. English level
+1. English level B2
 2. Ukrainian level
 3. Russian
